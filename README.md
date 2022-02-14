@@ -6,7 +6,7 @@ Iniciando na programação com muita dedicação.
     mais uma linha 
     
 
-    git remote add origin https://github.com/PhrosaDev/modulogit.gitgit 
+git remote add origin
 
 
 
