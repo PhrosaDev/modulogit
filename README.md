@@ -11,5 +11,9 @@ Iniciando na programação com muita dedicação.
 
 
 git remote -v
+
 git add -A
+
 git push -u origin master
+
+cabeça de bode é dura igual pedra 
