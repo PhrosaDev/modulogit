@@ -17,3 +17,6 @@ git add -A
 git push -u origin master
 
 git revert --no-edit hashcommit
+
+git push origin :nome_branch
+
