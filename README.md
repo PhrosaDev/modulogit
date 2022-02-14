@@ -11,5 +11,9 @@ Iniciando na programação com muita dedicação.
 
 
 git remote -v
+
 git add -A
+
 git push -u origin master
+
+git revert --no-edit hashcommit
