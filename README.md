@@ -8,8 +8,8 @@ Iniciando na programação com muita dedicação.
 
     git remote add origin https://github.com/PhrosaDev/modulogit.gitgit 
 
-git remote -v
 
-origin  https://github.com/PhrosaDev/modulogit.git (fetch)
-origin  https://github.com/PhrosaDev/modulogit.git (push) 
+
+git remote -v
+git add -A
 git push -u origin master
