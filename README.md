@@ -21,3 +21,5 @@ git revert --no-edit hashcommit
 git push origin :nome_branch
 
 git branch -D teste
+
+git pull origin master 
