@@ -14,7 +14,7 @@ git remote -v
 
 git add -A
 
-git push -u origin master
+git push origin master
 
 git revert --no-edit hashcommit
 
@@ -23,3 +23,7 @@ git push origin :nome_branch
 git branch -D teste
 
 git pull origin master 
+
+git clone url-projeto  (clonar projeto)
+
+git remote -v (identificar o nome do servidor remoto )
